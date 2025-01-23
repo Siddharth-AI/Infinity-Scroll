@@ -33,7 +33,7 @@ The application dynamically loads images from the Unsplash API and appends them 
 
 ## DesktopView -
 
-<img src="./desktopView.png" width="900" height="400"/> 
+<img src="./desktopView.png" width="800" height="400"/> 
 
 ## How It Works
 
