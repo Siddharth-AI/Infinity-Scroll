@@ -25,6 +25,11 @@ root/
 
 The application dynamically loads images from the Unsplash API and appends them to the page.
 
+## ScreenShot
+
+<img src="./mobileView.png" width="600" height="800"/> 
+<img src="./desktopView.png" width="800" height="800"/> 
+
 ## How It Works
 
 ### Core Functionality
@@ -105,10 +110,6 @@ let initialCount = 5; // Change to your desired initial count
 Edit `style.css` to customize fonts, colors, and layout.
 
 ---
-
-## ScreenShot
-
-<img src="./mobileView.png" width="400" height="400"/> 
 
 ## Responsive Design
 
