@@ -27,8 +27,8 @@ The application dynamically loads images from the Unsplash API and appends them 
 
 ## ScreenShot
 
-<img src="./mobileView.png" width="600" height="800"/> 
-<img src="./desktopView.png" width="800" height="800"/> 
+<img src="./mobileView.png" width="500" height="700"/> 
+<img src="./desktopView.png" width="900" height="400"/> 
 
 ## How It Works
 
